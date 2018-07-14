@@ -1,4 +1,4 @@
-# Pool
+# Shoot-em Up
 
 ## Controls:
 - WASD to move your spaceship
